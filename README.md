@@ -13,9 +13,11 @@
 
 ## 学習サイクルの実行について
 - Google Colab を用いる場合
+    
     [alpha-variable-othello - Jupyterノートブック](https://github.com/Miyamoto-my/alpha-variable-othello/blob/main/alpha-variable-othello.ipynb)を開いて，Google Colab 上で実行．
 
 - 自PCを用いる場合
+
     ターミナル上で以下を実行．
     ~~~
     python .\train_cycle.py
