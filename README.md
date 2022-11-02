@@ -58,12 +58,12 @@ The range of numbers is
 
 - [ ] train_cycle. py
     ~~~python
-    for i in range(10):     # 学習回数
+    for i in range(10):     # サイクル数
     ~~~
 
 - [ ] train_network. py
     ~~~python
-    RN_EPOCHS = 100         # サイクル数
+    RN_EPOCHS = 100         # 学習回数
     ~~~
 
 
